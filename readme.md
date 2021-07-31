@@ -6,7 +6,7 @@
 
 <br>
 
-##### Languages and tools
+#### Languages and tools
 
 ---
 
@@ -15,13 +15,14 @@
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6ad5f8)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6ad5f8)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6ad5f8)
+![](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=6ad5f8)
 
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=macos&logoColor=white&color=6ad5f8)
 
 
 <br>
 
-##### Contact me
+#### Contact me
 
 ---
 
