@@ -1,6 +1,6 @@
 ## Hi, I'm Eugenio Peñalver
 
-> Currently working as a Big Data Infrastructure Engineer @ SIX-BME.
+> Currently working as a Data Infrastructure Engineer @ SIX Swiss Exchange, based in Madrid (Spain)
 
 <br>
 
