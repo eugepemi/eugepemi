@@ -1,6 +1,6 @@
 ## Hi, I'm Eugenio Peñalver
 
-> Currently working as a Backend Software Engineer @ Zooplus, based in Madrid (Spain)
+> Currently working as a Machine Learning Engineer @ Clarity AI, based in Madrid (Spain)
 
 <br>
 
