@@ -1,38 +1,38 @@
-## Hi, I'm Eugenio Peñalver
+<h1 align="center">Hi 👋, I'm Eugenio Peñalver</h1>
 
-> Currently working as a Machine Learning Engineer @ Clarity AI, based in Madrid (Spain)
-
-<br>
-
-![snake](./assets/tenor.gif)
-
-<br>
-
-### Languages and tools:
-<br>
-
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-### Stats:
-
-<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugepemi&show_icons=true&locale=en" align="center" />
+  <a href="https://github.com/eugepemi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=AI+Engineer+%40+Clarity+AI;Based+in+Madrid+%F0%9F%87%AA%F0%9F%87%B8;Building+with+LLMs+%26+ML" alt="Typing SVG" />
+  </a>
 </p>
 
 <br>
 
-### Contact me
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenio-pe%C3%B1alver-miret-b869b610a/)](https://www.linkedin.com/in/eugenio-pe%C3%B1alver-miret-b869b610a/)
-[![Gmail Badge](https://img.shields.io/badge/-eugepemi@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eugepemi@gmail.com)](mailto:eugepemi@gmail.com)
+<p align="center">
+  <img src="./assets/tenor.gif" alt="snake" />
+</p>
 
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eugepemi)
+<h3 align="center">💾 The Payload</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,pytorch,tensorflow,postgres,redis,elasticsearch,docker,kubernetes,aws,ansible,grafana,prometheus,linux,git&theme=dark&perline=8" alt="stuff" />
+</p>
+
+<br>
+
+<h3 align="center">📫 Contact me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eugenio-pe%C3%B1alver-miret-b869b610a/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eugepemi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eugepemi" alt="visitors" />
+</p>
